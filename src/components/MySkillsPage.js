@@ -105,7 +105,7 @@ I love to create design which speaks, Keep it clean, minimal and simple.
         Web Design
     </li>
     <li>
-        Mobile Apps
+        Corporate design
     </li>
 </ul>
 </Description>
@@ -114,15 +114,14 @@ I love to create design which speaks, Keep it clean, minimal and simple.
 <ul>
     <li>
        Figma
-    </li>
-    
+    </li> 
 </ul>
 </Description>
 
             </Main>
             <Main>
 <Title>
-    <Develope width={40} height={40} /> Frontend Developer
+    <Develope width={40} height={40} /> Fullstack Developer
 </Title>
 <Description>
 I value business or brand for which i'm creating, thus i enjoy bringing new ideas to life.
@@ -130,13 +129,13 @@ I value business or brand for which i'm creating, thus i enjoy bringing new idea
 <Description>
 <strong>Skills</strong>
 <p>
-Html, Css, Js, React, Redux, Sass, Bootstrap, Tailwind, Firebase etc.
+Html, Css, Js, React, Redux, Tailwind, MongoDB, Express.js, Node.js, Bun.
 </p>
 </Description>
 <Description>
 <strong>Tools</strong>
 <p>
-VScode, Github, Codepen etc.
+VScode, zed, Xcode, Github, etc.
 </p>
 </Description>
 
